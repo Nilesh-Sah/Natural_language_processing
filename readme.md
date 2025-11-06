@@ -53,11 +53,17 @@ corpus = [
     "I love coding and my favourite languages are C,C++ and python, I also love building embedded devices"
 ]
 
+Here's that text cleaning section formatted for a GitHub README.md:
+
+## 1. Text Cleaning
+
+This step converts text to lowercase and removes punctuation, numbers, special characters, and HTML tags.
 
 
 
 
 
+ 
 
 
 
